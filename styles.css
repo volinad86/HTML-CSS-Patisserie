@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    background-color: #ffffd2;
+}
+#myVideo{
+    width: 100%;
+}
+
+.heading{
+    display: flex;
+    justify-content: center;
+}
+h1{
+    color: #aa96da;
+    font-size: 30px;
+    font-family: 'Montserrat', sans-serif;
+}
