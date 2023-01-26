@@ -74,3 +74,16 @@ ins{
     border-radius: 10px;
     font-size: 20px;
 }
+
+
+@media all and (max-width: 500px){
+    .papa{
+        display: flex;
+        flex-direction: column;
+    }
+    .heading{
+        margin-left: 5%;
+        margin-right: 5%;
+        text-align: center;
+    }
+    }
