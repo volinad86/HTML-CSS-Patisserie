@@ -30,3 +30,24 @@ h1{
     max-width: 700px;
     margin: 0 auto;
 }
+
+.futter{
+    display: flex;
+    flex-direction: column;
+    background-color: pink;
+    margin: 20px;
+    padding: 20px;
+    flex: 1;
+}
+h3, a, img, p{
+    align-self: center;
+}
+.list{
+    background-color:#ffffd2;
+    color: #7c7575;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color:#52616b;
+    font-size: 30px;
+}
