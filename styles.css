@@ -5,7 +5,6 @@ body{
 #myVideo{
     width: 100%;
 }
-
 .heading{
     display: flex;
     justify-content: center;
@@ -15,7 +14,6 @@ h1{
     font-size: 30px;
     font-family: 'Montserrat', sans-serif;
 }
-
 .family{
     font-family: 'Montserrat', sans-serif;
     font-size: 20px;
@@ -30,7 +28,6 @@ h1{
     max-width: 700px;
     margin: 0 auto;
 }
-
 .futter{
     display: flex;
     flex-direction: column;
@@ -51,14 +48,12 @@ h3{
     color:#52616b;
     font-size: 30px;
 }
-
 .price{
     font-family: 'Montserrat', sans-serif;
     color:#52616b;
     font-weight: bolder;
     font-size: 30px;
 }
-
 del{
     background-color:#fbb ;
 }
