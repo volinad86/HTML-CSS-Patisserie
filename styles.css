@@ -51,3 +51,26 @@ h3{
     color:#52616b;
     font-size: 30px;
 }
+
+.price{
+    font-family: 'Montserrat', sans-serif;
+    color:#52616b;
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+del{
+    background-color:#fbb ;
+}
+ins{
+    text-decoration: none;
+    display: inline-block;
+    transform: rotate(-10deg);
+}
+.btn{
+    padding: 7px;
+    background-color: #aa96da;
+    color: #ffffd2;
+    border-radius: 10px;
+    font-size: 20px;
+}
